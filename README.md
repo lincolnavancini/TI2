@@ -1,2 +1,2 @@
 # TI2
-Repositório exclusivo da matéria Trabalho Interdisciplinar 2: Back-end
+Repositório destinado à disciplina Trabalho Interdisciplinar 2: Back-end
