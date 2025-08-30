@@ -17,5 +17,4 @@ public class SomarDoisNumeros {
 		
 		System.out.println("A soma dos dois numeros e: " + soma);
 	}
-
 }
